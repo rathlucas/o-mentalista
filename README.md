@@ -11,7 +11,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+## Índice
 
 - [Introdução](#introduction)
 - [Feedback](#feedback)
@@ -29,5 +29,5 @@ Leu o código fonte e gostaria de dar algum feedback? Fique à vontade, ficarei 
 
 ## Como jogar
 
-Acesse o projeto através do link tal e divirta-se!
+Acesse o projeto através do link https://o-mentalista.vercel.app/ e divirta-se!
 
